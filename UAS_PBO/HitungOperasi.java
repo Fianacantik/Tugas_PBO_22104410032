@@ -7,8 +7,8 @@ package WLast_UAS;
 
 /**
  *
- * @author Jonathan Setya Widayat
- * @NIM 22104410047
+ * @author Afiana Septi Laili
+ * @NIM 22104410032
  * @Prodi Teknik Informatika - Universitas Islam Balitar
  */
 import javax.swing.JOptionPane;
