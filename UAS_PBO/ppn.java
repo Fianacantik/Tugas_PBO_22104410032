@@ -5,7 +5,7 @@
 
 /**
  *
- * @author WINDOWS 10
+ * @author Afiana Septi Laili (22104410032)
  */
 public interface ppn {
     
